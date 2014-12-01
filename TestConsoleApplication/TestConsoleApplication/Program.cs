@@ -10,7 +10,7 @@ namespace TestConsoleApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is how it works in V1.0");
+            Console.WriteLine("This is how it works in V2.0");
         }
     }
 }
